@@ -1,0 +1,1 @@
+FLAG{String on the stack is bad for command `strings`}
